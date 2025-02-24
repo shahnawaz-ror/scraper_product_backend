@@ -49,5 +49,5 @@ group :development, :test do
 end
 gem "nokogiri"
 gem "httparty"
-gem "selenium-webdriver", "~> 4.27"
+gem "selenium-webdriver", "~> 4.29"
 gem "sidekiq"
